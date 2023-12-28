@@ -1,0 +1,9 @@
+.users-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin: 50px 50px;
+}
+.user {
+  margin-top: 0 !important;
+}
